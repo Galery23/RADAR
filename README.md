@@ -7,7 +7,7 @@
 
 Welcome to the official repository for the paper "Robust Modality-incomplete Anomaly Detection: A Modality-instructive Framework with Benchmark". Modality incompleteness is unavoidable in real-world multimodal industrial anomaly detection. Thus, in this work, we propose a novel, challenging, and practical task - **Modality-Incomplete Industrial Anomaly Detection (MIIAD)** and its benchmark ***MIIAD Bench***. To address MIIAD challenges, we present RADAR, a **R**obust mod**A**lity-instructive fusing and **D**etecting fr**A**mewo**R**k. This project addresses the limitations of current MIAD paradigms that ignore real-world data imperfections. We are excited to open-source **RADAR** and ***MIIAD Bench***, providing the community with tools to advance robust industrial anomaly detection.
 
-![RADAR Framework](radar_framework-17439973712061.png) 
+![RADAR Framework](assets/radar_framework.png) 
 
 
 
