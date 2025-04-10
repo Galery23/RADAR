@@ -32,9 +32,12 @@ Through our experiments on ***MIIAD Bench***, we observe that current advanced M
 
 <img src="assets/introduction.png" alt="RADAR Framework" style="zoom:33%;" />
 
+<img src="assets/performance_under_different_modality_missing_rates.png" alt="RADAR Framework" style="zoom:33%;" />
+
 
 
 ### RADAR Framework
+
 **RADAR** tackles modality incompleteness through two innovative stages:
 1. **Adaptive Instruction Fusion**:  
    - Uses *modality-incomplete instructions* to guide multimodal Transformers.  
